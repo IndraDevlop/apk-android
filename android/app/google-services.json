@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676056552837",
+    "project_id": "biznet-apps",
+    "storage_bucket": "biznet-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676056552837:android:ace0ba752e81c99b3620ec",
+        "android_client_info": {
+          "package_name": "com.example.biznet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676056552837-ghecq06je4ecmn7bapqmtvahrgpe0bub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Vu2_IvWhXh9vy4DlsTq_q7ybJJztOJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676056552837-ghecq06je4ecmn7bapqmtvahrgpe0bub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
